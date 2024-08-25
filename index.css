@@ -1077,7 +1077,7 @@ section{
 } */
 @media(max-width:400px){
     .home_head{
-        margin-bottom: 30px !important;
+        margin-bottom: -380px !important;
     }
     .home_main{
         height: 90vh !important;
